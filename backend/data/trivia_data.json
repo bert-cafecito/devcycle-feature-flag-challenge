@@ -1,0 +1,1462 @@
+[
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    },
+    {
+        "question": "What type is Pikachu?",
+        "options": [
+            "Electric",
+            "Water",
+            "Fire",
+            "Grass"
+        ],
+        "correct_answer": "Electric",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Type"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon evolves into Charmeleon?",
+        "options": [
+            "Charmander",
+            "Charizard",
+            "Vulpix",
+            "Growlithe"
+        ],
+        "correct_answer": "Charmander",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Evolution"
+        ]
+    },
+    {
+        "question": "What type is super effective against Water Pok\u00e9mon?",
+        "options": [
+            "Electric",
+            "Grass",
+            "Both Electric and Grass",
+            "Fire"
+        ],
+        "correct_answer": "Both Electric and Grass",
+        "difficulty": "Beginner",
+        "category": [
+            "Type Matchups"
+        ]
+    },
+    {
+        "question": "What is the name of the first region in the Pok\u00e9mon games?",
+        "options": [
+            "Kanto",
+            "Johto",
+            "Hoenn",
+            "Sinnoh"
+        ],
+        "correct_answer": "Kanto",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge",
+            "Regions"
+        ]
+    },
+    {
+        "question": "Which Pok\u00e9mon is known as the 'Fire Horse Pok\u00e9mon'?",
+        "options": [
+            "Ponyta",
+            "Rapidash",
+            "Arcanine",
+            "Flareon"
+        ],
+        "correct_answer": "Ponyta",
+        "difficulty": "Beginner",
+        "category": [
+            "General Knowledge"
+        ]
+    }
+]

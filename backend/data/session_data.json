@@ -1,0 +1,14 @@
+{
+    "player_name": "player1",
+    "streak": {
+        "correct": 0,
+        "wrong": 0
+    },
+    "question": {
+        "answered": 0,
+        "asked": []
+    },
+    "answered_correctly": {},
+    "achievements": [],
+    "badges": []
+}

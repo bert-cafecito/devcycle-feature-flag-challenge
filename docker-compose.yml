@@ -1,0 +1,20 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "8000:8000"
+    develop:
+      watch: 
+        - path: ./backend/src
+          action: rebuild
+        - path: ./backend/data
+          action: rebuild
+    networks:
+      - dev_network
+      
+networks:
+  dev_network:
+    driver: bridge

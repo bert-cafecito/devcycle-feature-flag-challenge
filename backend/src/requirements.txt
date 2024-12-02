@@ -1,0 +1,2 @@
+devcycle-python-server-sdk
+fastapi[standard]

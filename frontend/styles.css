@@ -1,0 +1,92 @@
+/* Confetti Animation */
+@keyframes confetti {
+    0% { transform: scale(0); opacity: 0; }
+    50% { transform: scale(1); opacity: 1; }
+    100% { transform: scale(0); opacity: 0; }
+}
+
+.confetti {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    pointer-events: none;
+}
+
+.confetti span {
+    width: 10px;
+    height: 10px;
+    background-color: #ff0;
+    margin: 0 5px;
+    animation: confetti 1.5s infinite;
+}
+
+/* Sad Trombone Animation */
+.sad-trombone {
+    font-size: 2em;
+    color: #f00;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: shake 0.5s ease-in-out;
+}
+
+@keyframes shake {
+    0% { transform: translateX(-50%) rotate(0deg); }
+    25% { transform: translateX(-50%) rotate(-10deg); }
+    50% { transform: translateX(-50%) rotate(10deg); }
+    75% { transform: translateX(-50%) rotate(-10deg); }
+    100% { transform: translateX(-50%) rotate(0deg); }
+}
+
+/* Profile Slider Styling */
+#profile-slider {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    background: #f7f7f7;
+    border-left: 3px solid #007bff;
+    display: none;
+    padding: 20px;
+    box-shadow: -3px 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.badge {
+    margin: 5px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#level-progress {
+    width: 100%;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#level-progress-bar {
+    height: 20px;
+    background-color: #007bff;
+    width: 0%;
+    border-radius: 10px;
+}

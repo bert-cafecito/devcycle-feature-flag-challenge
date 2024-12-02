@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia Game</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEJp+Kys1Q02oVbDmhqZghOwG3YTTiUjl7K9ZZVwB4K0kzyzQeHv6le2Jh1Ol" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Trivia Game</h1>
+        <div id="question-container">
+            <p id="question-text">Loading question...</p>
+            <div id="options-container"></div>
+            <button id="answer-btn" class="btn btn-primary">Answer</button>
+        </div>
+        <div id="feedback" class="mt-3"></div>
+        <div id="level-progress">
+            <div id="level-progress-bar"></div>
+        </div>
+
+        <!-- Profile Slider Section -->
+        <button id="show-profile-btn" class="btn btn-info mt-3">Show Profile</button>
+
+        <div id="profile-slider" style="display: none;">
+            <div class="profile-header">
+                <h3>Player Profile</h3>
+                <button id="close-slider" class="btn btn-secondary">Close</button>
+            </div>
+            <p><strong>Player Name:</strong> <span id="player-name"></span></p>
+            <p><strong>Streak:</strong> Correct: <span id="streak-correct"></span> / Wrong: <span id="streak-wrong"></span></p>
+            <p><strong>Questions Answered:</strong> <span id="questions-answered"></span></p>
+            <p><strong>Questions Asked:</strong> <span id="questions-asked"></span></p>
+            <p><strong>Answered Correctly by Category:</strong> <span id="answered-correctly"></span></p>
+
+            <div class="badges">
+                <p><strong>Badges:</strong></p>
+                <span id="badges"></span>
+            </div>
+
+            <div class="achievements">
+                <p><strong>Achievements:</strong></p>
+                <span id="achievements"></span>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
